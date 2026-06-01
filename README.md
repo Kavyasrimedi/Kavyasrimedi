@@ -15,9 +15,3 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Kavyasrimedi&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Kavyasrimedi&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=Kavyasrimedi&icon=0&color=0)](https://visitcount.itsvg.in)
-
